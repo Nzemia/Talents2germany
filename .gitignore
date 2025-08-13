@@ -1,0 +1,16 @@
+salary-api/vendor/
+salary-api/storage/*.key
+salary-api/.env
+
+salary-management-frontend/node_modules/
+salary-management-frontend/.next/
+salary-management-frontend/.env.local
+salary-management-frontend/.env.development
+salary-management-frontend/.env.production
+
+# Logs
+*.log
+
+# OS/System files
+.DS_Store
+Thumbs.db
